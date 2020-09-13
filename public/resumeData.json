@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Priyanshu saraf",
+    "occupation": "python Developer && Instructor",
+    "description": "student by Day, coder by night.",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Priyanshu, I'm a python Developer. currenly, going to school in Lakshmipat Singhania Academy while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "sarafpriyanshu1@gmail.com",
+    "phone": "+91 9903074027",
+    "address": {
+      "street": "22 buroshibtala main road",
+      "city": "kolkata",
+      "state": "India",
+      "zip": "700038"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/priyanshu.saraf.58",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/priyanshu-saraf/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/saraf_priyanshu_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/priyanshusaraf",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Web developer, data scientist, learning A.I",
+    "education": [
+      {
+        "school": "LSA",
+        "degree": "none",
+        "graduated": "due '27",
+        "description": "havent yet graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "smplastic",
+        "title": "data scientist",
+        "years": "April 2020 - Present",
+        "description": "Teaching coding to my friends."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "Numpy, Matplotlib, Pandas",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJS And Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "A.I",
+        "level": "55%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Google maps project",
+        "category": "google maps project-learnt apis and more about real world projects",
+        "image": "google-maps.jpg",
+        "url": "https://github.com/priyanshusaraf/google-maps-project-summer"
+      },
+      {
+        "title": "netflix clone",
+        "category": "netflix clone built with react js and firebase",
+        "image": "netflix-clone.jpg",
+        "url": "https://netflix-clone-5966a.web.app"
+      },
+      {
+        "title": "astar pathfinding algorithm visualiser",
+        "category": "astar algorithm visualiser made with python, pygame and astar algorithm",
+        "image": "pathfinder.jpg",
+        "url": "https://github.com/priyanshusaraf/astar-pathfinding-visualiser"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "my first job as a freelancer"
+      },
+      {
+        "text": "That Priyanshu saraf must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be a 13 year old kid, and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Ritu Kumar"
+      }
+    ]
+  }
+}
